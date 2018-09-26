@@ -651,29 +651,29 @@
 @media (min-width: 992px) {
   .custom-col-lg-4 {
     padding: 0; } }
-#promo {
+#pro {
   background-image: url("../images/cta-background.jpg");
   height: 420px;
   background-size: cover; }
-  #promo .head-title {
+  #pro .head-title {
     color: white; }
-  #promo .head-title2 {
+  #pro .head-title2 {
     font-size: 16px;
     margin: 0 auto 50px;
     max-width: 700px;
     text-align: center;
     color: white; }
-  #promo .wrapper {
+  #pro .wrapper {
     z-index: 2;
     background-color: rgba(22, 22, 22, 0.78); }
 
-#wearethebest {
+#wts {
   padding: 90px 0; }
-  #wearethebest .fa-check {
+  #wts .fa-check {
     color: #0b60a9; }
-  #wearethebest ul {
+  #wts ul {
     text-decoration: none; }
-  #wearethebest .section-title {
+  #wts .section-title {
     margin-bottom: 10px;
     position: relative;
     font-size: 33px;
@@ -681,7 +681,7 @@
     font-family: 'Poppins', sans-serif; }
 
 #feature {
-  background-image: url("../images/wearethebest/features-background.jpg");
+  background-image: url("../images/wts/features-background.jpg");
   background-size: cover;
   padding: 90px 0px; }
   @media (max-width: 768px) {
@@ -720,7 +720,7 @@
       opacity: 0;
       transition: transform 0.2s, opacity 0.2s;
       transform: scale(0.8); }
-  #feature .item-f {
+  #feature .item-first {
     width: 360px;
     height: 142px; }
 
